@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Cordination</string>
+    <string name="show_direction">Show Direction</string>
+    <string name="fetching_location">Fetching location...</string>
+</resources>
